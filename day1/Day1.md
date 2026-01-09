@@ -42,4 +42,4 @@ Grateful for the support and initiative by:
 
 ## 📸 Screenshot / Proof
 
-![Day 1 Progress](images/day1.png)
+![Day 1 Progress](../images/day1.png)
