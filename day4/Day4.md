@@ -47,3 +47,7 @@ Successfully completed **Day 4** of the Databricks AI Challenge, where I explore
 #DeltaLake  
 #DataEngineering  
 #LearningInPublic
+
+## 📸 Screenshot / Proof
+
+![Day 1 Progress](../images/day4.png)
