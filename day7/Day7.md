@@ -2,7 +2,7 @@
 
 Today’s focus was on understanding and implementing Databricks Workflows and Job Orchestration to automate end-to-end data pipelines with scheduling, task dependencies, and error handling in a production environment.
 
-## Learnings
+##  What I Learned Today
 
 - **Databricks Jobs vs Notebooks**
   - Notebooks are mainly used for development and interactive analysis.
@@ -22,7 +22,7 @@ Today’s focus was on understanding and implementing Databricks Workflows and J
 
 ---
 
-## Tasks Completed
+## Tasks I Completed
 
 ### 1. Added Parameter Widgets
 - Created input widgets using `dbutils.widgets`

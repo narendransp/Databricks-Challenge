@@ -1,10 +1,11 @@
 # DAY 6 (14/01/26) – Medallion Architecture
 
-## Learnings
+
 
 Today’s focus was on understanding and implementing the **Medallion Architecture**, a layered data design pattern widely used in modern data engineering platforms like Databricks and Delta Lake.
 
-### Core Concepts
+##  What I Learned Today
+
 - **Bronze Layer (Raw Data)**
   - Stores raw, ingested data exactly as received
   - No transformations applied
@@ -27,7 +28,7 @@ Today’s focus was on understanding and implementing the **Medallion Architectu
 
 ---
 
-## Tasks Completed
+## Tasks I Completed
 
 ### 1️ Designed a 3-Layer Architecture
 - Defined clear responsibilities for Bronze, Silver, and Gold layers
